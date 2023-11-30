@@ -18,7 +18,7 @@ Configuration: Once the necessary packages are installed, configure the tool wit
 
 Launch: With everything set up, you're ready to go. Launch the tool, and it will automatically send emails to your list of subscribers, saving you time and effort.
 
-Ideal For:
+# Ideal For:
 
 Businesses looking to automate their email marketing campaigns.
 Organizations sending regular updates to their members.
