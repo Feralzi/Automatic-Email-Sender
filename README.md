@@ -2,7 +2,7 @@
 
 Welcome to the Automatic-Email-Sender, an efficient and user-friendly tool designed to streamline the process of sending emails to a list of subscribers.
 
-Features:
+# Features:
 
 Automated Email Dispatch: Set up your subscriber list, and the tool will handle the rest, automatically sending out emails to everyone on the list. This feature is perfect for newsletters, promotional campaigns, or regular updates to your clients or users.
 
@@ -10,7 +10,7 @@ Intuitive GUI: We've added a Graphical User Interface (GUI) to ensure ease of na
 
 Customizable Setup: Tailor your email-sending process according to your specific needs. The tool is flexible and adaptable to various email formats and subscriber list sizes.
 
-Getting Started:
+# Getting Started:
 
 Installation: To get started, please ensure to install any Python packages (pips) listed in the code. This step is crucial for the proper functioning of the tool.
 
